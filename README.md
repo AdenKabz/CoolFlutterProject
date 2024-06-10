@@ -1,5 +1,5 @@
 **FLUTTER HEALTH APP (DART PROJECT)
-iHeal (Name of App)
+TibaChap (Name of App)
 Highlights**
 •	App links health facilities to rural dwellers.
 •	Health facilities are; mobile hospital, flying doctor service, ambulance and medical professionals like doctors, nurses, practitioners among others.
